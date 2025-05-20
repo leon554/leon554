@@ -18,6 +18,5 @@
 <div align="left">
   <img src="https://nirzak-streak-stats.vercel.app/?user=leon554&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leon554&label=Profile%20views&color=0e75b6&style=flat" alt="leon554" /> </p>
 
 Currently working on <a href="https://github.com/leon554/CanvasKit">CanvasKitGame</a> 🔭
