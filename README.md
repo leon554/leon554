@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Leon</h1>
-<h4 align="left">An aspiring developer from Australia with a passion for web technologies</h4>
+<h3 align="left">An aspiring developer from Australia with a passion for web technologies</h3>
 
-<h4 align="left">Languages and Tools:</h4>
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
@@ -13,10 +13,11 @@
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 </p>
 
 <div align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=leon554&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leon554&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Langauge Stats" />
 </div>
-
+<p></p>
 Currently working on <a href="https://github.com/leon554/CanvasKit">CanvasKitGame</a> 🔭
