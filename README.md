@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Leon</h1>
-<p align="left">An aspiring developer from Australia with a passion for web technologies</p>
+<p align="left">An aspiring web developer from Australia with a passion for web technologies</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -20,4 +20,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leon554&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Langauge Stats" />
 </div>
 <p></p>
-Currently working on <a href="https://github.com/leon554/CanvasKit">CanvasKitGame</a> 🔭
+Currently working on <a href="https://github.com/leon554/HabitLink2">HabitLink2</a> 🔭
