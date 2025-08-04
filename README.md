@@ -25,7 +25,7 @@ Currently working on <a href="https://github.com/leon554/HabitLink2">HabitLink2<
 
 <h4>Completed Projects</h4>
 <ul>
-  <li>HabitLink: <a href="https://github.com/leon554/HabitLink2](https://habit-link-4qow.vercel.app/">Here</a></li>
-  <li>PaletteForge: <a href="https://habit-link-4qow.vercel.app/](https://paletteforge.netlify.app/">Here</a></li>
+  <li>HabitLink: <a href="https://habit-link-4qow.vercel.app/">Here</a></li>
+  <li>PaletteForge: <a href="https://paletteforge.netlify.app/">Here</a></li>
   <li>EvoSim: <a href="https://evo-sim.netlify.app/">Here</a></li>
 </ul>
