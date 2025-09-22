@@ -20,12 +20,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leon554&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Langauge Stats" />
 </div>
 <p></p>
-Currently working on <a href="https://github.com/leon554/HabitLink2">HabitLink2</a> 🔭
+Currently working on <a href="[https://github.com/leon554/HabitLink2](https://github.com/leon554/moneyflow)">MoneyFlow</a> 🔭
 
 
 <h4>Completed Projects</h4>
 <ul>
-  <li>HabitLink: <a href="https://habit-link-4qow.vercel.app/">Here</a></li>
+  <li>HabitLink: <a href="https://habit-link.com">Here</a></li>
+  <li>Corelink/Habitlink: <a href="https://habit-link-4qow.vercel.app/">Here</a></li>
   <li>PaletteForge: <a href="https://paletteforge.netlify.app/">Here</a></li>
   <li>EvoSim: <a href="https://evo-sim.netlify.app/">Here</a></li>
 </ul>
