@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Leon</h1>
-<p align="left">An aspiring web developer from Australia with a passion for web technologies</p>
+<p align="left">An aspiring software engineer from Australia with a passion for web technologies</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
