@@ -20,7 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leon554&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Langauge Stats" />
 </div>
 <p></p>
-Currently working on <a href="https://github.com/leon554/moneyflow">MoneyFlow</a> 🔭
 
 
 <h4>Completed Projects</h4>
@@ -29,4 +28,5 @@ Currently working on <a href="https://github.com/leon554/moneyflow">MoneyFlow</a
   <li>Corelink: <a href="https://habit-link-4qow.vercel.app/">Here</a></li>
   <li>PaletteForge: <a href="https://paletteforge.netlify.app/">Here</a></li>
   <li>EvoSim: <a href="https://evo-sim.netlify.app/">Here</a></li>
+  <li>MoneyFlow: <a href="https://github.com/leon554/moneyflow">Here</a></li>
 </ul>
