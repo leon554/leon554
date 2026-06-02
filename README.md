@@ -16,10 +16,7 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 </p>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leon554&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Langauge Stats" />
-</div>
-<p></p>
+
 
 
 <h4>Completed Projects</h4>
